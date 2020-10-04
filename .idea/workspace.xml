@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95c51b57-6b77-4084-8acd-b8f9942dc75c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Other/map function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Euler_project/largest prime factor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Euler_project/multiple of 3,5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Euler_project/sum of fabonacci.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,24 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/speed python/parityof a number.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/speed python/range.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HackerRankPractice/squre within range.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -67,11 +51,56 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Other/map function.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="30" column="19" lean-forward="true" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+              <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Euler_project/multiple of 3,5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Euler_project/sum of fabonacci.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="16" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Euler_project/largest prime factor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Other/e2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="127" selection-start-line="4" selection-start-column="127" selection-end-line="4" selection-end-column="127" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Other/3_5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="14" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -102,10 +131,13 @@
         <option value="$PROJECT_DIR$/speed python/lower to upper case.py" />
         <option value="$PROJECT_DIR$/speed python/String Transformation.py" />
         <option value="$PROJECT_DIR$/Other/map function.py" />
+        <option value="$PROJECT_DIR$/Euler_project/multiple of 3,5.py" />
+        <option value="$PROJECT_DIR$/Euler_project/sum of fabonacci.py" />
+        <option value="$PROJECT_DIR$/Euler_project/largest prime factor.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-12" />
     <option name="y" value="-12" />
     <option name="width" value="984" />
@@ -127,17 +159,12 @@
             <path>
               <item name="DataSciencePractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataSciencePractice" type="462c0819:PsiDirectoryNode" />
-              <item name="HackerRankPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="Euler_project" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DataSciencePractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataSciencePractice" type="462c0819:PsiDirectoryNode" />
               <item name="Other" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataSciencePractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataSciencePractice" type="462c0819:PsiDirectoryNode" />
-              <item name="speed python" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -164,7 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.map function">
+  <component name="RunManager" selected="Python.largest prime factor">
     <configuration name="String Transformation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DataSciencePractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,7 +214,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="index of a value" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="largest prime factor" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DataSciencePractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,34 +222,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/speed python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Euler_project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/speed python/index of a value.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lower to upper case" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="DataSciencePractice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/speed python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/speed python/lower to upper case.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Euler_project/largest prime factor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,7 +258,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="squre within range" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="multiple of 3,5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DataSciencePractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -261,12 +266,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HackerRankPractice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Euler_project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRankPractice/squre within range.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Euler_project/multiple of 3,5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sum of fabonacci" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DataSciencePractice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Euler_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Euler_project/sum of fabonacci.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,11 +304,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.largest prime factor" />
+        <item itemvalue="Python.sum of fabonacci" />
+        <item itemvalue="Python.multiple of 3,5" />
         <item itemvalue="Python.map function" />
         <item itemvalue="Python.String Transformation" />
-        <item itemvalue="Python.lower to upper case" />
-        <item itemvalue="Python.index of a value" />
-        <item itemvalue="Python.squre within range" />
       </list>
     </recent_temporary>
   </component>
@@ -301,17 +328,18 @@
       <workItem from="1601573686375" duration="2526000" />
       <workItem from="1601579392853" duration="2743000" />
       <workItem from="1601620340559" duration="4904000" />
-      <workItem from="1601744386583" duration="1853000" />
+      <workItem from="1601744386583" duration="1991000" />
+      <workItem from="1601803816844" duration="7126000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14444000" />
+    <option name="totallyTimeSpent" value="21708000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13177042" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13338722" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -341,10 +369,13 @@
     <SUITE FILE_PATH="coverage/DataSciencePractice$squre_within_range.coverage" NAME="squre within range Coverage Results" MODIFIED="1601620937897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRankPractice" />
     <SUITE FILE_PATH="coverage/DataSciencePractice$index_of_a_value.coverage" NAME="index of a value Coverage Results" MODIFIED="1601621963517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/speed python" />
     <SUITE FILE_PATH="coverage/DataSciencePractice$parityof_a_number.coverage" NAME="parityof a number Coverage Results" MODIFIED="1601579315207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/speed python" />
+    <SUITE FILE_PATH="coverage/DataSciencePractice$largest_prime_factor.coverage" NAME="largest prime factor Coverage Results" MODIFIED="1601841491799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Euler_project" />
     <SUITE FILE_PATH="coverage/DataSciencePractice$3_5.coverage" NAME="3_5 Coverage Results" MODIFIED="1601579148912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Other" />
     <SUITE FILE_PATH="coverage/DataSciencePractice$String_Transformation.coverage" NAME="String Transformation Coverage Results" MODIFIED="1601623726999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/speed python" />
+    <SUITE FILE_PATH="coverage/DataSciencePractice$sum_of_fabonacci.coverage" NAME="sum of fabonacci Coverage Results" MODIFIED="1601840984409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Euler_project" />
     <SUITE FILE_PATH="coverage/DataSciencePractice$map_function.coverage" NAME="map function Coverage Results" MODIFIED="1601746498842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Other" />
     <SUITE FILE_PATH="coverage/DataSciencePractice$lower_to_upper_case.coverage" NAME="lower to upper case Coverage Results" MODIFIED="1601622837804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/speed python" />
+    <SUITE FILE_PATH="coverage/DataSciencePractice$multiple_of_3_5.coverage" NAME="multiple of 3,5 Coverage Results" MODIFIED="1601833553454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Euler_project" />
     <SUITE FILE_PATH="coverage/DataSciencePractice$range.coverage" NAME="range Coverage Results" MODIFIED="1601580120487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/speed python" />
   </component>
   <component name="editorHistoryManager">
@@ -352,20 +383,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Other/e2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="127" selection-start-line="4" selection-start-column="127" selection-end-line="4" selection-end-column="127" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Other/3_5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="14" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -421,7 +438,42 @@
     <entry file="file://$PROJECT_DIR$/Other/map function.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="30" column="19" lean-forward="true" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Other/e2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="127" selection-start-line="4" selection-start-column="127" selection-end-line="4" selection-end-column="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Other/3_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Euler_project/multiple of 3,5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Euler_project/sum of fabonacci.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="16" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Euler_project/largest prime factor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
         </state>
       </provider>
     </entry>
