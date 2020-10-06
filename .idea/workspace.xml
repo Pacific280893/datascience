@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95c51b57-6b77-4084-8acd-b8f9942dc75c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HackerRankPractice/minion game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRankPractice/Compress the string.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRankPractice/Compress the string.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,8 +78,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HackerRankPractice/minion game.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+            <state relative-caret-position="110">
+              <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -340,12 +338,12 @@
       <workItem from="1601744386583" duration="1991000" />
       <workItem from="1601803816844" duration="7234000" />
       <workItem from="1601918955248" duration="7082000" />
-      <workItem from="1602005152097" duration="2453000" />
+      <workItem from="1602005152097" duration="3322000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31351000" />
+    <option name="totallyTimeSpent" value="32220000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -358,14 +356,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13662086" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32978722" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32978722" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -396,7 +393,7 @@
     <SUITE FILE_PATH="coverage/DataSciencePractice$lower_to_upper_case.coverage" NAME="lower to upper case Coverage Results" MODIFIED="1601622837804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/speed python" />
     <SUITE FILE_PATH="coverage/DataSciencePractice$index_of_a_value.coverage" NAME="index of a value Coverage Results" MODIFIED="1601621963517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/speed python" />
     <SUITE FILE_PATH="coverage/DataSciencePractice$parityof_a_number.coverage" NAME="parityof a number Coverage Results" MODIFIED="1601579315207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/speed python" />
-    <SUITE FILE_PATH="coverage/DataSciencePractice$minion_game.coverage" NAME="minion game Coverage Results" MODIFIED="1602012152437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRankPractice" />
+    <SUITE FILE_PATH="coverage/DataSciencePractice$minion_game.coverage" NAME="minion game Coverage Results" MODIFIED="1602012958464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRankPractice" />
     <SUITE FILE_PATH="coverage/DataSciencePractice$largest_prime_factor.coverage" NAME="largest prime factor Coverage Results" MODIFIED="1601841491799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Euler_project" />
     <SUITE FILE_PATH="coverage/DataSciencePractice$3_5.coverage" NAME="3_5 Coverage Results" MODIFIED="1601579148912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Other" />
     <SUITE FILE_PATH="coverage/DataSciencePractice$Compress_the_string.coverage" NAME="Compress the string Coverage Results" MODIFIED="1601924945479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRankPractice" />
@@ -533,8 +530,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HackerRankPractice/minion game.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        <state relative-caret-position="110">
+          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
         </state>
       </provider>
     </entry>
